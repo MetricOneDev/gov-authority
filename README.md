@@ -1,5 +1,5 @@
 # mkr-authority
-![Build Status](https://github.com/makerdao/mkr-authority/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
+[![.github/workflows/tests.yaml](https://github.com/MetricOneDev/mkr-authority/actions/workflows/tests.yaml/badge.svg)](https://github.com/MetricOneDev/mkr-authority/actions/workflows/tests.yaml)
 
 Custom authority for allowing MKR to govern MKR.
 
